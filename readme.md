@@ -139,8 +139,6 @@ dominance   : loading... 12% (please hold)
 
 <i>“she kept the lights off, the tabs open, and the code clean. her feet were cold and her socks were mismatched.”</i>
 
-https://img.shields.io/badge/you%20don't%20deserve%20me-(still%20here%20though)-FF7EB6?style=for-the-badge&labelColor=0B0709
-
 <img src="https://komarev.com/ghpvc/?username=Aithyr&style=flat-square&color=FF7EB6&label=people%20who%20saw%20this%20and%20regretted%20it" />
 
 <sub>no linkedin. no portfolio. no references. i am not real. (i am barefoot.)</sub>
