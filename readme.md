@@ -1,5 +1,5 @@
 <!--
-  🩸 AITHYR — BURNER README v2.1
+  🩸 AITHYR — BURNER README v2.2
   no linkedin. no portfolio. no dignity. no notes.
   replace [BRACKETS]. gif is wired as <img> (GitHub strips iframes).
 -->
@@ -32,7 +32,7 @@
 
 <br/>
 
-<sub><i>click any of them. i'll leave you on read so hard it becomes a personality trait. it's not personal. it's a lifestyle. (it's a little personal.)</i></sub>
+<sub><i>click one. i dare you. i'll leave you on read anyway. ♡</i></sub>
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <img src="https://static2.klipy.com/ii/a8ada81afc59159ea5c8927feffa2e31/ae/b0/su2S36k7VA3Ud8pgH.gif" width="440" alt="manhattan cafe chlling" />
 
-<sub><i>the cave. it's warm in here. you're not invited. (goon cave etiquette: wipe your feet, do not perceive, leave.)</i></sub>
+<sub><i>the cave. warm. cozy. you're not invited. (wipe your feet, gremlin.)</i></sub>
 
 </div>
 
@@ -51,19 +51,33 @@
 ## 🩸 `whoami`
 
 ```yaml
-# ──────────────── whoami ────────────────
-name:        Aithyr
-pronouns:    she / her
-located:     Bx, Belgium — the cave (address withheld, obviously)
-timezone:    UTC+1, functionally nocturnal
-occupation:  girlfailure · final boss · part-time cryptid
-vibe:        messy, mean, mildly feral (affectionately)
-focus:       shipping code, dodging sunlight, ruining my own sleep schedule
-status:      🚧 repos loading... so is my sense of self
-sleep:       no
-caffeine:    yes. intravenously. don't ask.
-last_commit: 3:47am (crying)
-red_flags:   yes. all of them. it's a parade.
-attachment:  avoidant (i'll fix it in prod)
-love_lang:   "i'll fix it in prod"
-motto:       "make it work. make it right. make it fast. regret it later."
+# ╭──────────────────────────────────────────────╮
+# │   ✦  w h o a m i  ✦   ·   A I T H Y R        │
+# ╰──────────────────────────────────────────────╯
+
+identity:
+  name:        Aithyr
+  pronouns:    she / her ♡
+  species:     girlfailure (final boss variant)
+  vibe:        messy · mean · mildly feral
+  aesthetic:   pink terminal, dead eyes, cold coffee
+
+location:
+  somewhere:   Bx, Belgium — the cave
+  address:     withheld (obviously)
+  timezone:    UTC+1 · functionally nocturnal
+  sun:         not on speaking terms
+
+status:
+  occupation:  girlfailure · goon cave resident · part-time cryptid
+  brain:       out of stock (restock: never)
+  sleep:       no
+  caffeine:    intravenous. don't ask.
+  last_commit: 3:47am (crying)
+  repos:       loading… so is my sense of self
+
+soul:
+  red_flags:   yes. all of them. it's a parade.
+  attachment:  avoidant (i'll fix it in prod)
+  love_lang:   "i'll fix it in prod"
+  motto:       "make it work. make it right. make it fast. regret it later."
