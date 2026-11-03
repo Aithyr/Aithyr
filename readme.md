@@ -92,17 +92,17 @@ soul:
 ## 🦶 feet
 
 ```yaml
-# ╭──────────────────────────────────────────────╮
-# │   ✦  f e e t  ✦   ·   s t e p   c a r e f u l l y  │
-# ╰──────────────────────────────────────────────╯
+# ╭────────────────────────────────────────────────────╮
+# │   ✦  f e e t  ✦   ·   s t e p   c a r e f u l l y │
+# ╰────────────────────────────────────────────────────╯
 
 feet:
-  status:      cold. always. it's a medical mystery.
-  socks:       mismatched. on purpose. it's a lifestyle.
-  step_on_you: affectionately. do not make it weird.
-  footstool:   available for rent. rates negotiable.
-  barefoot:    yes. always. the cave floor is cold. i don't care.
-  toes:        do not perceive them. or do. i'm not your mom.
+  status:      cold.
+  socks:       mismatched.
+  step_on_you: weirdo.
+  footstool:   available for rent.
+  barefoot:    yes.
+  toes:        clean.
   shoes:       optional. dignity: also optional. (lie, i never had it)
 ```
 
