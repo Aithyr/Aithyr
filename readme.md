@@ -1,5 +1,5 @@
 <!--
-  🩸 AITHYR — BURNER README v2
+  🩸 AITHYR — BURNER README v2.1
   no linkedin. no portfolio. no dignity. no notes.
   replace [BRACKETS]. gif is wired as <img> (GitHub strips iframes).
 -->
@@ -10,15 +10,16 @@
 
 <sub><i>built different. built wrong. built at 4am. shipped anyway.</i></sub>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=FF7EB6&center=true&vCenter=true&width=620&lines=certified+girlfailure+%E2%9C%A6+cave+dweller;emotionally+unavailable+(compiling);i+will+fix+it+in+prod+%E2%9C%A6+she+will+not;down+bad+for+green+CI;no+thoughts+%E2%9C%A6+just+a+terminal+and+vibes;do+not+perceive+me+%E2%9C%A6+i+am+not+here" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=FF7EB6&center=true&vCenter=true&width=640&lines=certified+girlfailure+%E2%9C%A6+cave+dweller;emotionally+unavailable+(compiling);i+will+fix+it+in+prod+%E2%9C%A6+she+will+not;down+bad+for+green+CI;i+will+step+on+you+(affectionately);no+thoughts+%E2%9C%A6+just+a+terminal+and+vibes;do+not+perceive+me+%E2%9C%A6+i+am+not+here" alt="typing" />
 
 <br/>
 
 ![she/her](https://img.shields.io/badge/%E2%99%A1%20she%20%2F%20her-FF7EB6?style=flat-square&labelColor=0B0709)
 ![you don't deserve me](https://img.shields.io/badge/you%20don't%20deserve%20me-FF7EB6?style=flat-square&labelColor=0B0709)
 ![do not perceive](https://img.shields.io/badge/do%20not%20perceive%20me-FF7EB6?style=flat-square&labelColor=0B0709)
+![step on you](https://img.shields.io/badge/i'll%20step%20on%20you-(affectionately)-FF7EB6?style=flat-square&labelColor=0B0709)
 ![chronically online](https://img.shields.io/badge/chronically%20online-FF7EB6?style=flat-square&labelColor=0B0709)
 
 <br/>
@@ -31,7 +32,7 @@
 
 <br/>
 
-<sub><i>click any of them and i'll probably leave you on read. it's not personal. it's a lifestyle.</i></sub>
+<sub><i>click any of them. i'll leave you on read so hard it becomes a personality trait. it's not personal. it's a lifestyle. (it's a little personal.)</i></sub>
 
 </div>
 
@@ -41,7 +42,7 @@
 
 <img src="https://static2.klipy.com/ii/a8ada81afc59159ea5c8927feffa2e31/ae/b0/su2S36k7VA3Ud8pgH.gif" width="440" alt="manhattan cafe chlling" />
 
-<sub><i>the cave. it's warm in here. you're not invited.</i></sub>
+<sub><i>the cave. it's warm in here. you're not invited. (goon cave etiquette: wipe your feet, do not perceive, leave.)</i></sub>
 
 </div>
 
@@ -50,15 +51,19 @@
 ## 🩸 `whoami`
 
 ```yaml
+# ──────────────── whoami ────────────────
 name:        Aithyr
 pronouns:    she / her
 located:     Bx, Belgium — the cave (address withheld, obviously)
-timezone:    UTC+1, but functionally nocturnal
-occupation:  girlfailure, final boss, part-time cryptid
+timezone:    UTC+1, functionally nocturnal
+occupation:  girlfailure · final boss · part-time cryptid
+vibe:        messy, mean, mildly feral (affectionately)
 focus:       shipping code, dodging sunlight, ruining my own sleep schedule
 status:      🚧 repos loading... so is my sense of self
 sleep:       no
+caffeine:    yes. intravenously. don't ask.
 last_commit: 3:47am (crying)
 red_flags:   yes. all of them. it's a parade.
+attachment:  avoidant (i'll fix it in prod)
 love_lang:   "i'll fix it in prod"
 motto:       "make it work. make it right. make it fast. regret it later."
